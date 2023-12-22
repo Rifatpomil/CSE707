@@ -17,4 +17,4 @@ Individual Submitter:
 ID: 23266028
 Name: Rifat Alam Pomil
 
-I have also correctly uploaded slide.PPT and report.PDF here. Due to some problems I had to re-upload the video, therefore it shows late.
+I have also correctly uploaded slide.PPT and report.PDF here. Due to some problems I had to re-upload the video and readme file as they weren't appearing before due to naming convention therefore it shows late.
